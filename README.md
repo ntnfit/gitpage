@@ -22,11 +22,9 @@ các bước để phân tích EDA:
 + trực quan dữ liệu thống quan các công cụ vẽ biểu đồ của python:
 	- phân tích biến định lượng thường dùng histogram
 	- phân tích biến phân loại: countplot, bar, column,..
-	- Phân tích tương quan giữa các biến định lượng
-	  *dùng Scatter plot thường được dùng để trực quan sự tương quan giữa 2 biến định
+	- Phân tích tương quan giữa các biến định lượng:dùng Scatter plot thường được dùng để trực quan sự tương quan giữa 2 biến định
 	lượng
-	- Phân tích tương quan giữa biến định lượng và biến phân loại
-	  *dùng box plot thường được dùng trong việc trực quan sự tương quan giữa biến định
+	- Phân tích tương quan giữa biến định lượng và biến phân loại: dùng box plot thường được dùng trong việc trực quan sự tương quan giữa biến định
 		lượng và biến phân loại.
 	-Complex conditional plots được dùng để trực quan sự tương quan có điều kiện
 + đọc biểu đồ và đưa ra nhận xét.
